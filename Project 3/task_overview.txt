@@ -1,0 +1,7 @@
+TASK REPORT
+Total tasks generated            28
+Total completed tasks            11
+Incompleted tasks                17
+Overdue tasks                    6
+Incompleted tasks percentage     60.71%
+Overdue tasks percentage         21.43%

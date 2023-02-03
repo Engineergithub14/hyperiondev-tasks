@@ -1,0 +1,29 @@
+admin, open taskManager.py to add the usernames, passwords for all team members that will be using this program., 8 january 2023, 20 Oct 2019, Yes 
+admin3, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 7 march 2023, 25 Oct 2019, Yes 
+admin3, got to shop, buy some fruit, 4 march 2025, 24 december 2022, No
+admin2, yse the data file to update data, open the file add data and close it, 4 jan 2024, 24 dec 2022, Yes
+admin5, add more data to fil, open the file add data and go on, 27 december 2022, 24 december 2022, No
+admin6, work out the data, open the file and access all the data, 27 dec 2022, 25 dec 2022, No
+admin7, adm7n, updating the data, 23 february 2023, 24 december 2022, No
+admin45, reassign all the tasks, reassign all the tasks to the new users, 3 january 2023, 31 december 2022, No
+amin3, reassign all the tasks, check the users and assign tasks accordingly, 5 march 2024, 31 december 2022, No
+admin4, readdign all the tasks, open the files and reassign tasks, 6 january 2023, 31 december 2022, Yes
+admin, use the data file to update data, open the file add data and close it, 15 july 2023, 24 dec 2022, Yes
+admin1, add more data to fil, open the file add data and go on, 6 march 2025, 24 december 2022, No
+admin, update all the files, reallocate the tasks, 6 february 2023, 31 december 2022, Yes
+admin2, open all text file, open the file and read data, 6 january 2022, 1 january 2023, Yes 
+admin3, go to the file, append the data, 4 january 2023, 1 january 2023, Yes 
+admin4, go to the file, add data, 3 january 2902, 1 january 2023, No
+admin5, go to the file to get data, get the data and close file, 6 january 2023, 1 january 2023, No
+admin5, go to the file again, update again, 33 january 2033, 1 january 2023, Yes
+admin9, go to the file, add text, 5 january 2023, 1 january 2023, No
+admin6, go to the file, add more data, 8 jan 2023, 1 jan 2023, No
+admin2, check all data in file, check the data for all users, 8 january 2023, 1 jan 2023, Yes
+admin3, this is a new task, new task, 1 january 2023, 1 january 2023, No
+admin34, task new, new test, 1 jan 2023, 1 jan 2023, No
+admin2, test task, testing, 23 jan 2023, 1 jan 2023, Yes
+admin45, go to the tasks, edit it, 23 jan 2023, 1 jan 2023, No
+admin2, go to the task, add it, 3 jan 2023, 4 jan 2023, Yes
+admin45, testing if the code is working, just testing, 5 january 2023, 8 january 2023, No
+admin89, go to the task, test it, 5 january 2023, 5 january 2023, No
+admin2, testing, tesgin, 6 january 2024, 5 january 2022, No

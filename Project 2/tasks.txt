@@ -1,0 +1,7 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+admin2, got to shop, buy some fruit, 25 december 2022, 24 december 2022, No
+admin2, yse the data file to update data, open the file add data and close it, 31 dec 2022, 24 dec 2022, No
+admin5, add more data to fil, open the file add data and go on, 27 december 2022, 24 december 2022, No
+admin6, work out the data, open the file and access all the data, 27 dec,2022, 25 dec 2022, No
+admin7, adm7n, updating the data, 23 february 2023, 24 december 2022, No
